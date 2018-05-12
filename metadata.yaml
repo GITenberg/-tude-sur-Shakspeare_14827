@@ -1,0 +1,34 @@
+_repo: -tude-sur-Shakspeare_14827
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guisot, M. (François)
+    - Guizot, Francois Pierre Guillaume
+    - Guizot, François Pierre Guillaume
+    - Guizot, Monsieur (François)
+    - Guizot, M. (François)
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia: http://en.wikipedia.org/wiki/François_Guizot
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2005-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14827'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616'
+- !lcc 'PR'
+title: Étude sur Shakspeare
+url: http://www.gutenberg.org/ebooks/14827
